@@ -1,0 +1,62 @@
+[
+    {
+        "id": 1,
+        "migration": "0001_01_01_000000_create_users_table",
+        "batch": 1
+    },
+    {
+        "id": 2,
+        "migration": "0001_01_01_000001_create_cache_table",
+        "batch": 1
+    },
+    {
+        "id": 3,
+        "migration": "0001_01_01_000002_create_jobs_table",
+        "batch": 1
+    },
+    {
+        "id": 4,
+        "migration": "2016_01_04_173148_create_admin_tables",
+        "batch": 1
+    },
+    {
+        "id": 5,
+        "migration": "2025_03_06_143843_create_nhansu_table",
+        "batch": 1
+    },
+    {
+        "id": 6,
+        "migration": "2025_03_06_151037_create_education_table",
+        "batch": 1
+    },
+    {
+        "id": 7,
+        "migration": "2025_03_06_152035_create_certificates_table",
+        "batch": 1
+    },
+    {
+        "id": 8,
+        "migration": "2025_03_06_152138_create_join_projects_table",
+        "batch": 1
+    },
+    {
+        "id": 9,
+        "migration": "2025_03_06_152243_create_trainings_table",
+        "batch": 1
+    },
+    {
+        "id": 10,
+        "migration": "2025_03_07_120252_add_role_to_users_table",
+        "batch": 1
+    },
+    {
+        "id": 11,
+        "migration": "2025_03_07_135336_add_user_id_to_nhansu_table",
+        "batch": 1
+    },
+    {
+        "id": 12,
+        "migration": "2025_03_15_160826_create_status_table",
+        "batch": 2
+    }
+]

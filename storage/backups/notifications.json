@@ -1,0 +1,68 @@
+[
+    {
+        "id": 1,
+        "sender_id": 4,
+        "nhansu_id": 3,
+        "type": "certificate",
+        "message": "t\u00f4i b\u1ecb sai th\u00f4ng tin v\u1ec1 ch\u1ee9ng ch\u1ec9, ch\u1ee9ng nh\u1eadn \u1edf ph\u1ea7n t\u00ean",
+        "is_read": 1,
+        "created_at": "2025-04-05 15:13:46",
+        "updated_at": "2025-04-14 16:27:00",
+        "is_processed": 1
+    },
+    {
+        "id": 2,
+        "sender_id": 1,
+        "nhansu_id": 3,
+        "type": "admin_response",
+        "message": "Y\u00eau c\u1ea7u c\u1ee7a b\u1ea1n v\u1ec1 n\u1ed9i dung \"t\u00f4i b\u1ecb sai th\u00f4ng tin v\u1ec1 ch\u1ee9ng ch\u1ec9, ch\u1ee9ng nh\u1eadn \u1edf ph\u1ea7n t\u00ean\" \u0111\u00e3 \u0111\u01b0\u1ee3c admin x\u1eed l\u00fd, vui l\u00f2ng ki\u1ec3m tra l\u1ea1i th\u00f4ng tin.",
+        "is_read": 0,
+        "created_at": "2025-04-05 15:23:36",
+        "updated_at": "2025-04-05 15:23:36",
+        "is_processed": 0
+    },
+    {
+        "id": 3,
+        "sender_id": 1,
+        "nhansu_id": 3,
+        "type": "admin_response",
+        "message": "Y\u00eau c\u1ea7u c\u1ee7a b\u1ea1n v\u1ec1 n\u1ed9i dung \"t\u00f4i b\u1ecb sai th\u00f4ng tin v\u1ec1 ch\u1ee9ng ch\u1ec9, ch\u1ee9ng nh\u1eadn \u1edf ph\u1ea7n t\u00ean\" \u0111\u00e3 \u0111\u01b0\u1ee3c admin x\u1eed l\u00fd, vui l\u00f2ng ki\u1ec3m tra l\u1ea1i th\u00f4ng tin.",
+        "is_read": 0,
+        "created_at": "2025-04-05 15:27:23",
+        "updated_at": "2025-04-05 15:27:23",
+        "is_processed": 0
+    },
+    {
+        "id": 4,
+        "sender_id": 1,
+        "nhansu_id": 3,
+        "type": "info",
+        "message": "Y\u00eau c\u1ea7u c\u1ee7a b\u1ea1n \u0111\u00e3 \u0111\u01b0\u1ee3c x\u1eed l\u00fd. Vui l\u00f2ng ki\u1ec3m tra l\u1ea1i th\u00f4ng tin.",
+        "is_read": 0,
+        "created_at": "2025-04-14 16:26:58",
+        "updated_at": "2025-04-14 16:26:58",
+        "is_processed": 0
+    },
+    {
+        "id": 5,
+        "sender_id": 1,
+        "nhansu_id": 3,
+        "type": "info",
+        "message": "Y\u00eau c\u1ea7u c\u1ee7a b\u1ea1n \u0111\u00e3 \u0111\u01b0\u1ee3c x\u1eed l\u00fd. Vui l\u00f2ng ki\u1ec3m tra l\u1ea1i th\u00f4ng tin.",
+        "is_read": 0,
+        "created_at": "2025-04-14 16:27:00",
+        "updated_at": "2025-04-14 16:27:00",
+        "is_processed": 0
+    },
+    {
+        "id": 6,
+        "sender_id": 3,
+        "nhansu_id": 3,
+        "type": "join-projects",
+        "message": "t\u00f4i mu\u1ed1n y\u00eau c\u1ea7u 1 kh\u00f3a tham gia d\u1ef1 \u00e1n",
+        "is_read": 0,
+        "created_at": "2025-04-16 01:07:21",
+        "updated_at": "2025-04-16 01:07:21",
+        "is_processed": 0
+    }
+]

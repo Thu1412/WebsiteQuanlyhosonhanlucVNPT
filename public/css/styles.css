@@ -1,0 +1,94 @@
+/* public/css/styles.css */
+
+body {
+    font-family: Arial, sans-serif;
+    background-color: #f4f7fc;
+    margin: 0;
+    padding: 0;
+}
+
+.container {
+    width: 80%;
+    margin: 0 auto;
+    padding: 20px;
+    background-color: #fff;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+}
+
+header h1 {
+    text-align: center;
+    color: #333;
+}
+
+.notification-list ul {
+    list-style-type: none;
+    padding: 0;
+}
+
+.notification-item {
+    background-color: #fafafa;
+    padding: 15px;
+    margin: 10px 0;
+    border-radius: 5px;
+    border: 1px solid #e1e1e1;
+}
+
+.notification-item .notification-type {
+    font-weight: bold;
+    color: #007bff;
+}
+
+.notification-item .notification-message {
+    font-size: 1.1em;
+    margin-top: 10px;
+}
+
+.notification-item .notification-status {
+    margin-top: 15px;
+    color: #666;
+}
+
+.create-notification-form {
+    background-color: #f9f9f9;
+    padding: 20px;
+    margin-top: 30px;
+    border-radius: 5px;
+    border: 1px solid #ddd;
+}
+
+.create-notification-form h2 {
+    text-align: center;
+    color: #007bff;
+}
+
+.create-notification-form .form-group {
+    margin-bottom: 15px;
+}
+
+.create-notification-form label {
+    font-weight: bold;
+    display: block;
+}
+
+.create-notification-form input, .create-notification-form select, .create-notification-form textarea {
+    width: 100%;
+    padding: 10px;
+    border: 1px solid #ccc;
+    border-radius: 5px;
+    font-size: 1em;
+}
+
+.create-notification-form button {
+    width: 100%;
+    padding: 10px;
+    background-color: #007bff;
+    color: white;
+    border: none;
+    border-radius: 5px;
+    font-size: 1.1em;
+    cursor: pointer;
+}
+
+.create-notification-form button:hover {
+    background-color: #0056b3;
+}

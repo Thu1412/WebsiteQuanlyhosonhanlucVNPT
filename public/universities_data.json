@@ -1,0 +1,122 @@
+{
+  "Đại học Bách Khoa Hà Nội": {
+      "StandardTrains": {
+          "Kỹ thuật Cơ khí": ["Cơ khí Chế tạo máy", "Cơ điện tử"],
+          "Kỹ thuật Điện": ["Điện tử Viễn thông", "Điện Công nghiệp"],
+          "Khoa học Máy tính": ["Khoa học Dữ liệu", "Trí tuệ Nhân tạo"],
+          "Công nghệ Thông tin": ["An toàn Thông tin", "Mạng và Truyền thông"]
+      }
+  },
+  "Đại học Kinh tế Quốc dân": {
+      "StandardTrains": {
+          "Quản trị Kinh doanh": ["Quản trị Nhân lực", "Marketing"],
+          "Tài chính - Ngân hàng": ["Ngân hàng", "Tài chính Doanh nghiệp"],
+          "Kinh tế Quốc tế": ["Kinh doanh Quốc tế", "Kinh tế Đối ngoại"],
+          "Kế toán": ["Kiểm toán", "Kế toán Quản trị"]
+      }
+  },
+  "Đại học Quốc gia Hà Nội": {
+      "StandardTrains": {
+          "Khoa học Tự nhiên": ["Toán học", "Vật lý"],
+          "Khoa học Xã hội và Nhân văn": ["Lịch sử", "Xã hội học"],
+          "Công nghệ": ["Công nghệ Sinh học", "Khoa học Máy tính"],
+          "Kinh tế": ["Kinh tế Phát triển", "Quản trị Kinh doanh"]
+      }
+  },
+  "Đại học Sư phạm Hà Nội": {
+      "StandardTrains": {
+          "Giáo dục Tiểu học": ["Giáo dục Đặc biệt"],
+          "Giáo dục Mầm non": ["Sư phạm Mầm non"],
+          "Sư phạm Toán học": ["Sư phạm Vật lý", "Sư phạm Hóa học"],
+          "Sư phạm Ngữ văn": ["Sư phạm Tiếng Anh"]
+      }
+  },
+  "Đại học FPT": {
+      "StandardTrains": {
+          "Công nghệ Thông tin": ["Kỹ thuật Phần mềm", "An toàn Thông tin"],
+          "Quản trị Kinh doanh": ["Quản trị Marketing", "Quản lý Dự án"],
+          "Thiết kế Đồ họa": ["Thiết kế Game", "Multimedia"],
+          "Ngôn ngữ Anh": ["Biên phiên dịch", "Tiếng Anh Thương mại"]
+      }
+  },
+  "Đại học Công nghiệp Hà Nội": {
+      "StandardTrains": {
+          "Công nghệ Kỹ thuật Cơ khí": ["Cơ điện tử", "Công nghệ Ô tô"],
+          "Công nghệ Kỹ thuật Điện": ["Điện tử Công nghiệp", "Tự động hóa"],
+          "Công nghệ Thông tin": ["Mạng máy tính", "Phát triển Phần mềm"],
+          "Kế toán": ["Kiểm toán", "Tài chính Kế toán"]
+      }
+  },
+  "Đại học Thủy lợi": {
+      "StandardTrains": {
+          "Kỹ thuật Thủy lợi": ["Quản lý Tài nguyên nước", "Kỹ thuật Cấp thoát nước"],
+          "Kỹ thuật Tài nguyên nước": ["Kỹ thuật Công trình biển"],
+          "Kỹ thuật Môi trường": ["Công nghệ Môi trường", "Xử lý Chất thải"],
+          "Công nghệ Thông tin": ["Khoa học Máy tính", "Hệ thống Thông tin"]
+      }
+  },
+  "Đại học Giao thông Vận tải": {
+      "StandardTrains": {
+          "Kỹ thuật Xây dựng Công trình Giao thông": ["Xây dựng Cầu đường", "Quản lý Giao thông"],
+          "Kỹ thuật Cơ khí": ["Cơ khí Ô tô", "Máy Xây dựng"],
+          "Kinh tế Vận tải": ["Quản lý Vận tải", "Logistics"],
+          "Công nghệ Thông tin": ["Mạng và Truyền thông", "Phát triển Phần mềm"]
+      }
+  },
+  "Đại học Bách Khoa TP.HCM": {
+      "StandardTrains": {
+          "Kỹ thuật Dầu khí": ["Khoan và Khai thác", "Chế biến Dầu khí"],
+          "Kỹ thuật Hóa học": ["Hóa Dược", "Kỹ thuật Môi trường"],
+          "Kỹ thuật Máy tính": ["Khoa học Máy tính", "Kỹ thuật Phần mềm"],
+          "Quản lý Công nghiệp": ["Quản trị Sản xuất", "Quản trị Chuỗi cung ứng"]
+      }
+  },
+  "Đại học Quốc gia TP.HCM": {
+      "StandardTrains": {
+          "Khoa học Tự nhiên": ["Sinh học", "Toán học"],
+          "Khoa học Xã hội và Nhân văn": ["Địa lý", "Lịch sử"],
+          "Kinh tế - Luật": ["Luật Kinh tế", "Quản trị Kinh doanh"],
+          "Công nghệ Thông tin": ["Kỹ thuật Phần mềm", "Mạng Máy tính"]
+      }
+  },
+  "Đại học Kinh tế TP.HCM": {
+      "StandardTrains": {
+          "Kinh tế": ["Kinh tế Phát triển", "Kinh tế Quốc tế"],
+          "Quản trị Kinh doanh": ["Quản trị Nhân lực", "Marketing"],
+          "Tài chính - Ngân hàng": ["Tài chính Doanh nghiệp", "Ngân hàng"],
+          "Kế toán": ["Kiểm toán", "Kế toán Quản trị"]
+      }
+  },
+  "Đại học Sư phạm TP.HCM": {
+      "StandardTrains": {
+          "Giáo dục Tiểu học": ["Sư phạm Tiếng Anh"],
+          "Giáo dục Mầm non": ["Sư phạm Mầm non"],
+          "Sư phạm Toán học": ["Sư phạm Vật lý", "Sư phạm Hóa học"],
+          "Sư phạm Ngữ văn": ["Sư phạm Sinh học"]
+      }
+  },
+  "Đại học Khoa học - Đại học Huế": {
+      "StandardTrains": {
+          "Toán học": ["Toán Tin", "Ứng dụng Toán học"],
+          "Vật lý": ["Vật lý Kỹ thuật", "Quang học"],
+          "Hóa học": ["Hóa Dược", "Hóa Phân tích"],
+          "Sinh học": ["Công nghệ Sinh học", "Sinh học Môi trường"]
+      }
+  },
+  "Đại học Kinh tế - Đại học Đà Nẵng": {
+      "StandardTrains": {
+          "Kinh tế": ["Kinh tế Phát triển", "Quản lý Kinh tế"],
+          "Quản trị Kinh doanh": ["Quản trị Marketing", "Kinh doanh Quốc tế"],
+          "Tài chính - Ngân hàng": ["Tài chính Công", "Ngân hàng"],
+          "Kế toán": ["Kiểm toán", "Tài chính Kế toán"]
+      }
+  },
+  "Đại học Bách Khoa - Đại học Đà Nẵng": {
+      "StandardTrains": {
+          "Kỹ thuật Cơ khí": ["Cơ khí Chế tạo máy", "Cơ điện tử"],
+          "Kỹ thuật Điện": ["Điện tử Viễn thông", "Điện Công nghiệp"],
+          "Công nghệ Thông tin": ["Khoa học Máy tính", "An toàn Thông tin"],
+          "Kỹ thuật Xây dựng": ["Xây dựng Dân dụng", "Xây dựng Cầu đường"]
+      }
+  }
+}

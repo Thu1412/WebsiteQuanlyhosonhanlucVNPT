@@ -1,0 +1,26 @@
+[
+    {
+        "id": 1,
+        "name": "\u0110ang di\u1ec5n ra",
+        "created_at": "2025-03-15 23:10:35",
+        "updated_at": "2025-03-15 23:10:35"
+    },
+    {
+        "id": 2,
+        "name": "Ho\u00e0n th\u00e0nh",
+        "created_at": "2025-03-15 23:10:35",
+        "updated_at": "2025-03-15 23:10:35"
+    },
+    {
+        "id": 3,
+        "name": "T\u1ea1m d\u1eebng",
+        "created_at": "2025-03-15 23:10:35",
+        "updated_at": "2025-03-15 23:10:35"
+    },
+    {
+        "id": 4,
+        "name": "B\u1ecb h\u1ee7y",
+        "created_at": "2025-03-19 19:38:03",
+        "updated_at": "2025-03-19 19:38:03"
+    }
+]
